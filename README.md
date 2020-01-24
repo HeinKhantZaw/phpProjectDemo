@@ -1,7 +1,5 @@
 # phpProjectDemo
 
-Welcome!
-added travis CI
+Welcome! added travis CI
 
-Hello world!
-HKZ
+Hello world! HKZ
